@@ -31,3 +31,5 @@
 *.out
 *.app
 .vs
+DataStructureBook/x64
+x64
